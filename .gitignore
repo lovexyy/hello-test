@@ -1,0 +1,14 @@
+*.dwarf
+*.rdb
+.DS_Store
+.crystal
+.shards
+app
+bin
+doc
+docs
+binaries
+lib
+.logs
+repositories/*
+src
