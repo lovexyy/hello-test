@@ -11,19 +11,7 @@ Metrics/CyclomaticComplexity:
   Description: Disallows methods with a cyclomatic complexity higher than `MaxComplexity`
   MaxComplexity: 10
   Excluded:
-  - drivers/helvar/net.cr
-  - drivers/mulesoft/booking_api.cr
-  - drivers/samsung/displays/mdc_protocol.cr
-  - drivers/cisco/dna_spaces.cr
-  - drivers/cisco/meraki/dashboard.cr
-  - drivers/cisco/switch/snooping_catalyst.cr
-  - drivers/gantner/relaxx/protocol_json.cr
-  - drivers/place/bookings.cr
-  - drivers/place/area_management.cr
-  - drivers/place/smtp.cr
-  - drivers/hitachi/projector/cp_tw_series_basic.cr
-  - drivers/panasonic/projector/nt_control.cr
-  - drivers/lumens/dc193.cr
+  - drivers/jack/hello.cr
   Enabled: false
   Severity: Convention
 
